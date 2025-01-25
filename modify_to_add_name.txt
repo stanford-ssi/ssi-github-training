@@ -1,3 +1,7 @@
 Add your name to this file!
+<<<<<<< HEAD
+Advay
+=======
 
 Niklas
+>>>>>>> main
